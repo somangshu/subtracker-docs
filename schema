@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-03T05:42:42.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:73.0) Gecko/20100101 Firefox/73.0" etag="yzQQQDvnM32Gp2cQX4LI" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-03T08:09:09.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:73.0) Gecko/20100101 Firefox/73.0" etag="_aYePkKP1OK4xXPCtYr3" version="12.7.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1143" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -338,9 +338,6 @@
             <mxPoint x="189.99999999999994" y="49.99199999999996" as="sourcePoint" />
             <mxPoint x="297.92" y="328" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YpZUca07b1j70Sy6wPYv-118" value="&lt;div&gt;&lt;i&gt;&lt;b&gt;Schema related to notification preference and &lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;b&gt;notification storage is yet to be discussed and &lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;b&gt;incorporated in the current schema&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="790" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qO9c_C2ON2XAKRKRftyF-0" value="Notification preference" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="296" width="160" height="170" as="geometry" />
